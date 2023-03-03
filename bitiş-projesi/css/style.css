@@ -1,0 +1,35 @@
+.resimSlider{
+    height: 700px;
+}
+
+body{
+    background-color:rgb(36,36,36);
+}
+.nav-set{
+    font-family: 'Raleway', sans-serif;
+}
+.margin-set{
+    
+    margin-top: 20px;
+    margin-left: 20px;
+    
+}
+.card-set{
+    font-family: 'Golos Text', sans-serif;
+}
+
+.text-color{
+    color: rgb(185, 185, 185);
+}
+.color-orange{
+    color: rgb(231, 163, 16);
+}
+.ayrac{
+    border:none;
+    border: 2px solid  #85858518;
+}
+.div-set{
+    width: 2050px;
+     height:250px;
+    
+}
